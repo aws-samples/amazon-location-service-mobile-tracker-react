@@ -2,7 +2,7 @@
 
 Demonstrates the basics of using AWS Amplify to integrate with Amazon Location Service tracker in a javascript react-natvie cross-platform mobile app.
 
-The Expo framework has been used to scafold the cross-platform mobile app with react-natvie.
+The Expo framework has been used to scafold the cross-platform mobile app with react-native.
 
 
 ## Solution 
