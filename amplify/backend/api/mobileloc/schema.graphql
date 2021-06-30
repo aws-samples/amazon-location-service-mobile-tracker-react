@@ -1,0 +1,11 @@
+type Device @model {
+  id: ID!
+  name: String!
+  trackerName: String!
+  latitude: String
+  longitude: String
+}
+
+type Mutation {
+  updateLocation(trackerName: String, deviceId: String, Latitude: String, Longitude: String): String @function(name: "updateLocation-${env}")
+}

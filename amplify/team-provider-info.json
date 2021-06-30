@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mobileloc-dev-143129-authRole",
+      "UnauthRoleArn": "arn:aws:iam::117470732045:role/amplify-mobileloc-dev-143129-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::117470732045:role/amplify-mobileloc-dev-143129-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mobileloc-dev-143129-deployment",
+      "UnauthRoleName": "amplify-mobileloc-dev-143129-unauthRole",
+      "StackName": "amplify-mobileloc-dev-143129",
+      "StackId": "arn:aws:cloudformation:us-east-1:117470732045:stack/amplify-mobileloc-dev-143129/4013f7b0-bddb-11eb-876d-0eb23bbe71c5",
+      "AmplifyAppId": "d21iwh9fokjjql"
+    },
+    "categories": {
+      "function": {
+        "updateLocation": {
+          "deploymentBucketName": "amplify-mobileloc-dev-143129-deployment",
+          "s3Key": "amplify-builds/updateLocation-524d7865382f66696958-build.zip"
+        }
+      }
+    }
+  }
+}
